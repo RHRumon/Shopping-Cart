@@ -6,7 +6,7 @@
       },
       "fields": {
         "title": "queen panel bed",
-        "price": 10.99,
+        "price": 10000,
         "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
       }
     },
@@ -14,7 +14,7 @@
       "sys": { "id": "2" },
       "fields": {
         "title": "king panel bed",
-        "price": 12.99,
+        "price": 20000,
         "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
       }
     },
@@ -22,7 +22,7 @@
       "sys": { "id": "3" },
       "fields": {
         "title": "single panel bed",
-        "price": 12.99,
+        "price": 8000,
         "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
       }
     },
@@ -30,7 +30,7 @@
       "sys": { "id": "4" },
       "fields": {
         "title": "twin panel bed",
-        "price": 22.99,
+        "price": 15000,
         "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
       }
     },
@@ -38,7 +38,7 @@
       "sys": { "id": "5" },
       "fields": {
         "title": "fridge",
-        "price": 88.99,
+        "price": 50000,
         "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
       }
     },
@@ -46,7 +46,7 @@
       "sys": { "id": "6" },
       "fields": {
         "title": "dresser",
-        "price": 32.99,
+        "price": 3500,
         "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
       }
     },
@@ -54,7 +54,7 @@
       "sys": { "id": "7" },
       "fields": {
         "title": "couch",
-        "price": 45.99,
+        "price": 25000,
         "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
       }
     },
@@ -62,8 +62,48 @@
       "sys": { "id": "8" },
       "fields": {
         "title": "table",
-        "price": 33.99,
+        "price": 2000,
         "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    {
+    "sys": { 
+        "id": "9" 
+      },
+      "fields": {
+        "title": "Blender",
+        "price": 6000,
+        "image": { "fields": { "file": { "url": "./images/Blender.jpg" } } }
+      }
+    },
+    {
+      "sys": { 
+        "id": "10" 
+      },
+      "fields": {
+        "title": "White and Black Desk",
+        "price": 8500,
+        "image": { "fields": { "file": { "url": "./images/desk.jpg"} } }
+      }
+    },
+    {
+      "sys": { 
+        "id": "11" 
+      },
+      "fields": {
+        "title": "Dining Table",
+        "price": 14000,
+        "image": { "fields": { "file": { "url": "./images/DiningTable.jpg"} } }
+      }
+    },
+    {
+      "sys": { 
+        "id": "12" 
+      },
+      "fields": {
+        "title": "Chair",
+        "price": 1000,
+        "image": { "fields": { "file": { "url": "./images/chair.jpg"} } }
       }
     }
   ]
